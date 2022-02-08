@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "approval program for car insurance/1.0.0": {
+        "runtime": {
+          "approval program for car insurance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "approval program for car insurance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
