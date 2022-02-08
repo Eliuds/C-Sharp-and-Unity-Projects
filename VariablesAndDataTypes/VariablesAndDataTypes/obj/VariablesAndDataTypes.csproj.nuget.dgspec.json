@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\13218\\Documents\\Basic_C#_Programs\\C-Sharp-and-Unity-Projects\\myConsoleProject.cs\\myConsoleProject.cs\\myConsoleProject.cs.csproj": {}
+    "C:\\Users\\13218\\Documents\\Basic_C#_Programs\\C-Sharp-and-Unity-Projects\\VariablesAndDataTypes\\VariablesAndDataTypes\\VariablesAndDataTypes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\13218\\Documents\\Basic_C#_Programs\\C-Sharp-and-Unity-Projects\\myConsoleProject.cs\\myConsoleProject.cs\\myConsoleProject.cs.csproj": {
+    "C:\\Users\\13218\\Documents\\Basic_C#_Programs\\C-Sharp-and-Unity-Projects\\VariablesAndDataTypes\\VariablesAndDataTypes\\VariablesAndDataTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\13218\\Documents\\Basic_C#_Programs\\C-Sharp-and-Unity-Projects\\myConsoleProject.cs\\myConsoleProject.cs\\myConsoleProject.cs.csproj",
-        "projectName": "myConsoleProject.cs",
-        "projectPath": "C:\\Users\\13218\\Documents\\Basic_C#_Programs\\C-Sharp-and-Unity-Projects\\myConsoleProject.cs\\myConsoleProject.cs\\myConsoleProject.cs.csproj",
+        "projectUniqueName": "C:\\Users\\13218\\Documents\\Basic_C#_Programs\\C-Sharp-and-Unity-Projects\\VariablesAndDataTypes\\VariablesAndDataTypes\\VariablesAndDataTypes.csproj",
+        "projectName": "VariablesAndDataTypes",
+        "projectPath": "C:\\Users\\13218\\Documents\\Basic_C#_Programs\\C-Sharp-and-Unity-Projects\\VariablesAndDataTypes\\VariablesAndDataTypes\\VariablesAndDataTypes.csproj",
         "packagesPath": "C:\\Users\\13218\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\13218\\Documents\\Basic_C#_Programs\\C-Sharp-and-Unity-Projects\\myConsoleProject.cs\\myConsoleProject.cs\\obj\\",
+        "outputPath": "C:\\Users\\13218\\Documents\\Basic_C#_Programs\\C-Sharp-and-Unity-Projects\\VariablesAndDataTypes\\VariablesAndDataTypes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\13218\\AppData\\Roaming\\NuGet\\NuGet.Config",

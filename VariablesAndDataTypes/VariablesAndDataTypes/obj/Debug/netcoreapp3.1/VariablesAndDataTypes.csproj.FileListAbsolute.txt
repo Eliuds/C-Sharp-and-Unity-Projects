@@ -1,0 +1,14 @@
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\netcoreapp3.1\VariablesAndDataTypes.exe
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\netcoreapp3.1\VariablesAndDataTypes.deps.json
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\netcoreapp3.1\VariablesAndDataTypes.runtimeconfig.json
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\netcoreapp3.1\VariablesAndDataTypes.runtimeconfig.dev.json
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\netcoreapp3.1\VariablesAndDataTypes.dll
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\netcoreapp3.1\VariablesAndDataTypes.pdb
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.AssemblyInfoInputs.cache
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.AssemblyInfo.cs
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.dll
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.pdb
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.genruntimeconfig.cache
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.csproj.AssemblyReference.cache
