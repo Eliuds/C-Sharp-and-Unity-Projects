@@ -25,7 +25,7 @@ namespace DAILY_REPORT
             Console.WriteLine(" Really page " + PG + " Thats impressive.");
 
             Console.WriteLine("Do you need help with anything? Please answer true or false.");
-            Console.ReadLine();
+            bool userInput = Convert.ToBoolean(Console.ReadLine());
 
             Console.WriteLine("Were there any positive experiences you’d like to share? Please give specifics.");
             string Help =Console.ReadLine();
@@ -41,7 +41,7 @@ namespace DAILY_REPORT
             Console.WriteLine("Good job putting in " + hours + " hours of study!");
             Console.ReadLine();
 
-            Console.WriteLine("Thank you for your answers, ill make sure to get them to an instructor and he'll respond shortly. Have a great a day!");
+            Console.WriteLine("Thank you for your answers, ill make sure to get them to an instructor and they'll respond shortly. Have a great a day!");
             Console.ReadLine();
 
 
