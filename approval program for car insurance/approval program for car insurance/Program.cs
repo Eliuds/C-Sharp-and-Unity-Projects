@@ -17,7 +17,7 @@ namespace approval_program_for_car_insurance
 
             Console.WriteLine("qualified");
 
-            bool qualified = (age > 15 && (DUI == false && (speedtickets < 3)));
+            bool qualified = (age > 15 && (DUI == false && (speedtickets <= 3)));
             Console.WriteLine(qualified);
         }
     }
