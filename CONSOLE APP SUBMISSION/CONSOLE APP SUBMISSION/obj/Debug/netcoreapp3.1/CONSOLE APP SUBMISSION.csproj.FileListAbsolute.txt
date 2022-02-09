@@ -1,0 +1,13 @@
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CONSOLE APP SUBMISSION\CONSOLE APP SUBMISSION\bin\Debug\netcoreapp3.1\CONSOLE APP SUBMISSION.exe
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CONSOLE APP SUBMISSION\CONSOLE APP SUBMISSION\bin\Debug\netcoreapp3.1\CONSOLE APP SUBMISSION.deps.json
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CONSOLE APP SUBMISSION\CONSOLE APP SUBMISSION\bin\Debug\netcoreapp3.1\CONSOLE APP SUBMISSION.runtimeconfig.json
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CONSOLE APP SUBMISSION\CONSOLE APP SUBMISSION\bin\Debug\netcoreapp3.1\CONSOLE APP SUBMISSION.runtimeconfig.dev.json
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CONSOLE APP SUBMISSION\CONSOLE APP SUBMISSION\bin\Debug\netcoreapp3.1\CONSOLE APP SUBMISSION.dll
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CONSOLE APP SUBMISSION\CONSOLE APP SUBMISSION\bin\Debug\netcoreapp3.1\CONSOLE APP SUBMISSION.pdb
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CONSOLE APP SUBMISSION\CONSOLE APP SUBMISSION\obj\Debug\netcoreapp3.1\CONSOLE APP SUBMISSION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CONSOLE APP SUBMISSION\CONSOLE APP SUBMISSION\obj\Debug\netcoreapp3.1\CONSOLE APP SUBMISSION.AssemblyInfoInputs.cache
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CONSOLE APP SUBMISSION\CONSOLE APP SUBMISSION\obj\Debug\netcoreapp3.1\CONSOLE APP SUBMISSION.AssemblyInfo.cs
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CONSOLE APP SUBMISSION\CONSOLE APP SUBMISSION\obj\Debug\netcoreapp3.1\CONSOLE APP SUBMISSION.csproj.CoreCompileInputs.cache
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CONSOLE APP SUBMISSION\CONSOLE APP SUBMISSION\obj\Debug\netcoreapp3.1\CONSOLE APP SUBMISSION.dll
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CONSOLE APP SUBMISSION\CONSOLE APP SUBMISSION\obj\Debug\netcoreapp3.1\CONSOLE APP SUBMISSION.pdb
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CONSOLE APP SUBMISSION\CONSOLE APP SUBMISSION\obj\Debug\netcoreapp3.1\CONSOLE APP SUBMISSION.genruntimeconfig.cache
