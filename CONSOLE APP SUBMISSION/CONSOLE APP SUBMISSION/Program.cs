@@ -20,7 +20,7 @@ namespace CONSOLE_APP_SUBMISSION
             //            break;
 
             //        case 30:
-            //             Console.WriteLine("Im not there yet");
+            //            Console.WriteLine("Im not there yet");
             //            Console.WriteLine("Guess my age.");
             //            number = Convert.ToInt32(Console.ReadLine());
             //            break;
@@ -33,8 +33,8 @@ namespace CONSOLE_APP_SUBMISSION
 
             //        case 19:
             //            Console.WriteLine("Thats Correct!");
-                       
-                     
+
+
             //            age = true;
             //            break;
 
@@ -60,7 +60,7 @@ namespace CONSOLE_APP_SUBMISSION
 
             while (!FavNum) 
             {
-               switch(FavNum)
+               switch(number1)
                {
                     case 12:
                         Console.WriteLine("Really 12?");
@@ -74,7 +74,7 @@ namespace CONSOLE_APP_SUBMISSION
                         number1 = Convert.ToInt32(Console.ReadLine());
                         break;
 
-                    case 55;
+                    case 55:
                         Console.WriteLine("55 is the best number isnt it?");
                         FavNum = true;
                         break;
@@ -90,7 +90,7 @@ namespace CONSOLE_APP_SUBMISSION
             Console.Read();
 
 
-            
+
         }
     }
 }

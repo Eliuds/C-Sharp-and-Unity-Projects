@@ -33,8 +33,8 @@ namespace BRANCHING_SUBMISSION_ASSIGNMENT
                         Console.WriteLine("Package too big to be shipped via Package Express.");
                     }
 
-                    else
-                    {
+                    
+                    
 
 
                         Console.WriteLine("What is the length of your package?");
@@ -44,7 +44,7 @@ namespace BRANCHING_SUBMISSION_ASSIGNMENT
                         {
                             Console.WriteLine("Package too big to be shipped via Package Express.");
                         }
-                    }
+                    
                 }
             }
             decimal quote = Height * Width * Length * Weight / 100;
