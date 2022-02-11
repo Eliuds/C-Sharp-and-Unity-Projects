@@ -1,0 +1,14 @@
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\STRINGS\STRINGS\bin\Debug\netcoreapp3.1\STRINGS.exe
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\STRINGS\STRINGS\bin\Debug\netcoreapp3.1\STRINGS.deps.json
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\STRINGS\STRINGS\bin\Debug\netcoreapp3.1\STRINGS.runtimeconfig.json
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\STRINGS\STRINGS\bin\Debug\netcoreapp3.1\STRINGS.runtimeconfig.dev.json
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\STRINGS\STRINGS\bin\Debug\netcoreapp3.1\STRINGS.dll
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\STRINGS\STRINGS\bin\Debug\netcoreapp3.1\STRINGS.pdb
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\STRINGS\STRINGS\obj\Debug\netcoreapp3.1\STRINGS.csproj.AssemblyReference.cache
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\STRINGS\STRINGS\obj\Debug\netcoreapp3.1\STRINGS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\STRINGS\STRINGS\obj\Debug\netcoreapp3.1\STRINGS.AssemblyInfoInputs.cache
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\STRINGS\STRINGS\obj\Debug\netcoreapp3.1\STRINGS.AssemblyInfo.cs
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\STRINGS\STRINGS\obj\Debug\netcoreapp3.1\STRINGS.csproj.CoreCompileInputs.cache
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\STRINGS\STRINGS\obj\Debug\netcoreapp3.1\STRINGS.dll
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\STRINGS\STRINGS\obj\Debug\netcoreapp3.1\STRINGS.pdb
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\STRINGS\STRINGS\obj\Debug\netcoreapp3.1\STRINGS.genruntimeconfig.cache
