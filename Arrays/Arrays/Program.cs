@@ -1,4 +1,6 @@
-﻿using System;
+﻿using System.Collections.Generic;
+using System;
+
 
 namespace Arrays
 {
@@ -6,17 +8,28 @@ namespace Arrays
     {
         static void Main()
         {
-            string[] StringArray = new string[] {"Anto", "Nuny", "jay", "Yilmar" };
-            Console.ReadLine();
+            string[] StringArray = new string[] { "Anto", "Nuny", "jay", "Yilmar" };
+            Console.WriteLine(StringArray);
+            int index = Convert.ToInt32(Console.ReadLine());
 
-            int[] numArray = { 1, 2, 3, 4, 5, 6,  7 };
-            Console.WriteLine(numArray[6]);
-            Console.ReadLine();
+            (int i = 0; i < StringArray.Lenth; i++) 
+            }
 
+                if (index == i)
+                {
+                    Console.WriteLine(StringArrray[i]);
+                }
+}
+
+
+            int[] numArray = { 1, 2, 3, 4, 5, 6, 7 };
+            Console.WriteLine();
+            Console.ReadLine();
+        
             List<string> stringList = new List<string>();
             stringList.Add("Howdy");
-            stringList.add("Hello");
-            stringList.ass("Hi");
+            stringList.Add("Hello");
+            stringList.Add("Hi");
         }
     }
 }
