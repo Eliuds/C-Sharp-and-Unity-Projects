@@ -17,16 +17,51 @@ namespace Iteration
             //}
             //Console.ReadLine();
 
-            string[] names = { "nuny", "yilmar", "chris", "jay" };
-            for (int j = 0; j < names.Length; j++)
+            //string[] names = { "nuny", "yilmar", "chris", "jay" };
+            //for (int j = 0; j < names.Length; j++)
+            //{
+            //    Console.WriteLine(names[j]);
+            //}
+            //Console.ReadLine();
+
+            //List<int> testScores = new List<int>();
+            //testScores.Add(98);
+            //testScores.Add(99);
+            //testScores.Add(81);
+            //testScores.Add(72);
+            //testScores.Add(70);
+
+            //foreach (int score in testScores )
+            //{
+            //    if (score > 85)
+            //    {
+            //        Console.WriteLine("Passing test score:" + score);
+
+            //    }
+            //}
+            //Console.ReadLine();
+
+            //List<string> names = new List<string>() {  "Anto", "Nuny", "Luis", "Joniel" };
+
+            //foreach (string name in names)
+            //{
+            //    Console.WriteLine(name);
+            //}
+            //Console.ReadLine();
+
+            List<int> testScores = new List<int>() { 98, 99, 12, 74, 23, 99 };
+            List<int> passingScores = new List<int>();
+
+            foreach(int score in testScores)
             {
-                if (names[j] == "nuny")
+                if (score > 85)
                 {
-                    Console.WriteLine(names[j]);
+                    passingScores.Add(score);
                 }
             }
 
-                        
+            Console.WriteLine(passingScores);
+            Console.ReadLine();
         }
     }
 }

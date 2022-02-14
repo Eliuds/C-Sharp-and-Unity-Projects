@@ -11,3 +11,4 @@ C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\Iteration\
 C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.dll
 C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.pdb
 C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.genruntimeconfig.cache
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.csproj.AssemblyReference.cache
