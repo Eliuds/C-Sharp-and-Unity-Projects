@@ -1,0 +1,14 @@
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CONSOLE APP ASSIGNMENT\CONSOLE APP ASSIGNMENT\bin\Debug\netcoreapp3.1\CONSOLE APP ASSIGNMENT.exe
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CONSOLE APP ASSIGNMENT\CONSOLE APP ASSIGNMENT\bin\Debug\netcoreapp3.1\CONSOLE APP ASSIGNMENT.deps.json
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CONSOLE APP ASSIGNMENT\CONSOLE APP ASSIGNMENT\bin\Debug\netcoreapp3.1\CONSOLE APP ASSIGNMENT.runtimeconfig.json
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CONSOLE APP ASSIGNMENT\CONSOLE APP ASSIGNMENT\bin\Debug\netcoreapp3.1\CONSOLE APP ASSIGNMENT.runtimeconfig.dev.json
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CONSOLE APP ASSIGNMENT\CONSOLE APP ASSIGNMENT\bin\Debug\netcoreapp3.1\CONSOLE APP ASSIGNMENT.dll
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CONSOLE APP ASSIGNMENT\CONSOLE APP ASSIGNMENT\bin\Debug\netcoreapp3.1\CONSOLE APP ASSIGNMENT.pdb
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CONSOLE APP ASSIGNMENT\CONSOLE APP ASSIGNMENT\obj\Debug\netcoreapp3.1\CONSOLE APP ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CONSOLE APP ASSIGNMENT\CONSOLE APP ASSIGNMENT\obj\Debug\netcoreapp3.1\CONSOLE APP ASSIGNMENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CONSOLE APP ASSIGNMENT\CONSOLE APP ASSIGNMENT\obj\Debug\netcoreapp3.1\CONSOLE APP ASSIGNMENT.AssemblyInfoInputs.cache
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CONSOLE APP ASSIGNMENT\CONSOLE APP ASSIGNMENT\obj\Debug\netcoreapp3.1\CONSOLE APP ASSIGNMENT.AssemblyInfo.cs
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CONSOLE APP ASSIGNMENT\CONSOLE APP ASSIGNMENT\obj\Debug\netcoreapp3.1\CONSOLE APP ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CONSOLE APP ASSIGNMENT\CONSOLE APP ASSIGNMENT\obj\Debug\netcoreapp3.1\CONSOLE APP ASSIGNMENT.dll
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CONSOLE APP ASSIGNMENT\CONSOLE APP ASSIGNMENT\obj\Debug\netcoreapp3.1\CONSOLE APP ASSIGNMENT.pdb
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CONSOLE APP ASSIGNMENT\CONSOLE APP ASSIGNMENT\obj\Debug\netcoreapp3.1\CONSOLE APP ASSIGNMENT.genruntimeconfig.cache

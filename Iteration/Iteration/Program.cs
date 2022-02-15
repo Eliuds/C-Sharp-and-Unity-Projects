@@ -17,12 +17,13 @@ namespace Iteration
             //}
             //Console.ReadLine();
 
-            //string[] names = { "nuny", "yilmar", "chris", "jay" };
-            //for (int j = 0; j < names.Length; j++)
-            //{
-            //    Console.WriteLine(names[j]);
-            //}
-            //Console.ReadLine();
+            string[] names = { "nuny", "yilmar", "chris", "jay" };
+            for (int j = 0; j < names.Length; j++)
+            {
+                Console.WriteLine(names[j]);
+            }
+            
+            Console.ReadLine();
 
             //List<int> testScores = new List<int>();
             //testScores.Add(98);
@@ -49,19 +50,19 @@ namespace Iteration
             //}
             //Console.ReadLine();
 
-            List<int> testScores = new List<int>() { 98, 99, 12, 74, 23, 99 };
-            List<int> passingScores = new List<int>();
+            //List<int> testScores = new List<int>() { 98, 99, 12, 74, 23, 99 };
+            //List<int> passingScores = new List<int>();
 
-            foreach(int score in testScores)
-            {
-                if (score > 85)
-                {
-                    passingScores.Add(score);
-                }
-            }
+            //foreach(int score in testScores)
+            //{
+            //    if (score > 85)
+            //    {
+            //        passingScores.Add(score);
+            //    }
+            //}
 
-            Console.WriteLine(passingScores);
-            Console.ReadLine();
+            //Console.WriteLine(passingScores);
+            //Console.ReadLine();
         }
     }
 }
