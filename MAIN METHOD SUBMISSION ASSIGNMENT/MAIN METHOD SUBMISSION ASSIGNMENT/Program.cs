@@ -19,7 +19,7 @@ namespace MAIN_METHOD_SUBMISSION_ASSIGNMENT
             decimal result2 = obj1.Method2(2.209m);
             Console.WriteLine("The result of the 2nd method is: " + result2);
 
-            string result3 = obj1.Method3("132");
+            int result3 = obj1.Method3("132");
             Console.WriteLine("The result of the 3rd method is: " + result3);
 
 

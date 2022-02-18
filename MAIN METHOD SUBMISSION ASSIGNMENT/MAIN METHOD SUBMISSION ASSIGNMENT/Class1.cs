@@ -17,10 +17,10 @@ namespace MAIN_METHOD_SUBMISSION_ASSIGNMENT
             return 20 + x;
         }
 
-        public string Method3(string num)
+        public int Method3(string num)
         {
             int num2 = Convert.ToInt32(num);
-            return 12 + num;
+            return 12 * num2;
         }
     }
 }
