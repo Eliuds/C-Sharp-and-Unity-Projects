@@ -19,7 +19,7 @@ namespace CLASS_SUBMISSION_ASSIGNMENT
             x = temp;
         }
 
-        static int PlusMethod(int x, int y)
+        public int PlusMethod(int x, int y)
         {
             return x + y;
         }
