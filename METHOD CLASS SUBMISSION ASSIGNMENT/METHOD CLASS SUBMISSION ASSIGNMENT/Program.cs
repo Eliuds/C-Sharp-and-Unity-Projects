@@ -6,10 +6,10 @@ namespace METHOD_CLASS_SUBMISSION_ASSIGNMENT
     {
         static void Main(string[] args)
         {
-           TwoNumbers obj1 = new TwoNumbers();
+            Class1 obj1 = new Class1();// class1 is the class name
 
+            obj1.TwoNumbers(3, 6);
 
-           
         }
     }
 }
