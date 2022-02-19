@@ -18,7 +18,7 @@ namespace METHOD_SUBMISSION_ASSIGNMENT
                 Console.WriteLine("The result is " + result);
             }
 
-            catch
+            catch// incase nun is inputed for num2 then it will use the catch
             {
                 Methods obj1 = new Methods();
                 int result = obj1.Method(num);
