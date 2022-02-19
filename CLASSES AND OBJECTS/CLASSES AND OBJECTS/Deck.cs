@@ -19,6 +19,7 @@ namespace TwentyOne
             {
                 foreach (string suit in Suits)//during each loop we creat a card and assign the value of suit and then we assign the face. Then we add that new card to the cards list. the first list the ones thats empty.
                 {
+
                     Card card = new Card();
                     card.Suit = suit;
                     card.Face = face;
@@ -27,5 +28,29 @@ namespace TwentyOne
             }
         }
         public List<Card> Cards { get; set; }
+
+        public  void Shuffle( int times = 1)// method to shuffle deck
+        {
+            
+            for (int i = 0; i < times; i++)
+            {
+
+                
+                List<Card> TempList = new List<Card>();
+                Random random = new Random();
+
+                while (Cards.Count > 0)
+                {
+                    int randomIndex = random.Next(0,Cards.Count);
+                    TempList.Add(Cards[randomIndex]);
+                    Cards.RemoveAt(randomIndex);
+                }
+                Cards = TempList;
+            }
+
+
+           
+        }
+
     }
 }
