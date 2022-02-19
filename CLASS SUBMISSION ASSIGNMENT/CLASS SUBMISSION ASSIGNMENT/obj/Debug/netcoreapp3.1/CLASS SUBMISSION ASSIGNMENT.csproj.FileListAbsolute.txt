@@ -1,0 +1,14 @@
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CLASS SUBMISSION ASSIGNMENT\CLASS SUBMISSION ASSIGNMENT\bin\Debug\netcoreapp3.1\CLASS SUBMISSION ASSIGNMENT.exe
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CLASS SUBMISSION ASSIGNMENT\CLASS SUBMISSION ASSIGNMENT\bin\Debug\netcoreapp3.1\CLASS SUBMISSION ASSIGNMENT.deps.json
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CLASS SUBMISSION ASSIGNMENT\CLASS SUBMISSION ASSIGNMENT\bin\Debug\netcoreapp3.1\CLASS SUBMISSION ASSIGNMENT.runtimeconfig.json
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CLASS SUBMISSION ASSIGNMENT\CLASS SUBMISSION ASSIGNMENT\bin\Debug\netcoreapp3.1\CLASS SUBMISSION ASSIGNMENT.runtimeconfig.dev.json
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CLASS SUBMISSION ASSIGNMENT\CLASS SUBMISSION ASSIGNMENT\bin\Debug\netcoreapp3.1\CLASS SUBMISSION ASSIGNMENT.dll
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CLASS SUBMISSION ASSIGNMENT\CLASS SUBMISSION ASSIGNMENT\bin\Debug\netcoreapp3.1\CLASS SUBMISSION ASSIGNMENT.pdb
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CLASS SUBMISSION ASSIGNMENT\CLASS SUBMISSION ASSIGNMENT\obj\Debug\netcoreapp3.1\CLASS SUBMISSION ASSIGNMENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CLASS SUBMISSION ASSIGNMENT\CLASS SUBMISSION ASSIGNMENT\obj\Debug\netcoreapp3.1\CLASS SUBMISSION ASSIGNMENT.AssemblyInfoInputs.cache
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CLASS SUBMISSION ASSIGNMENT\CLASS SUBMISSION ASSIGNMENT\obj\Debug\netcoreapp3.1\CLASS SUBMISSION ASSIGNMENT.AssemblyInfo.cs
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CLASS SUBMISSION ASSIGNMENT\CLASS SUBMISSION ASSIGNMENT\obj\Debug\netcoreapp3.1\CLASS SUBMISSION ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CLASS SUBMISSION ASSIGNMENT\CLASS SUBMISSION ASSIGNMENT\obj\Debug\netcoreapp3.1\CLASS SUBMISSION ASSIGNMENT.dll
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CLASS SUBMISSION ASSIGNMENT\CLASS SUBMISSION ASSIGNMENT\obj\Debug\netcoreapp3.1\CLASS SUBMISSION ASSIGNMENT.pdb
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CLASS SUBMISSION ASSIGNMENT\CLASS SUBMISSION ASSIGNMENT\obj\Debug\netcoreapp3.1\CLASS SUBMISSION ASSIGNMENT.genruntimeconfig.cache
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CLASS SUBMISSION ASSIGNMENT\CLASS SUBMISSION ASSIGNMENT\obj\Debug\netcoreapp3.1\CLASS SUBMISSION ASSIGNMENT.csproj.AssemblyReference.cache
