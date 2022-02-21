@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CLASS_SUBMISSION_ASSIGNMENT
 {
-    class Class1
+     class Class1
     {
         public void Divide(int x)// this is the method
         {

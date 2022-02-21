@@ -12,4 +12,12 @@ namespace CLASS_SUBMISSION_ASSIGNMENT
             obj1.Divide(user);
         }
     }
+    static class Hi
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hi");
+        }
+    }
 }
+
