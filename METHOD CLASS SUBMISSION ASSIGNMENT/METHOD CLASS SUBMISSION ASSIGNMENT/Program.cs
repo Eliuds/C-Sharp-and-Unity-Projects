@@ -8,7 +8,9 @@ namespace METHOD_CLASS_SUBMISSION_ASSIGNMENT
         {
             Class1 obj1 = new Class1();// class1 is the class name
 
-            obj1.TwoNumbers(3, 6);
+            obj1.TwoNumbers(num: 2, num2: 6);
+            
+            
 
         }
     }
