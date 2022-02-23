@@ -1,7 +1,7 @@
 ﻿using System;
-using Systems.Collections.Generic;
+using System.Collections.Generic;
 
-namespace METHODS_AND_OBJECTS_SUBMISSION_ASSIGNMENT1
+namespace Methods_and_objects
 {
     class Program
     {
@@ -11,6 +11,7 @@ namespace METHODS_AND_OBJECTS_SUBMISSION_ASSIGNMENT1
             employee.FirstName = new List<string>() { "Anto", "Nuny", "Yilmar" };
             employee.LastName = new List<string>() { "Escobar", "Roman", "Valle" };
             employee.FullName();
+            Console.ReadLine();
         }
     }
 }

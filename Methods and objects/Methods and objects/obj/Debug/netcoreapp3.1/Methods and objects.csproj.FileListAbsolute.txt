@@ -1,0 +1,14 @@
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\Methods and objects\Methods and objects\bin\Debug\netcoreapp3.1\Methods and objects.exe
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\Methods and objects\Methods and objects\bin\Debug\netcoreapp3.1\Methods and objects.deps.json
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\Methods and objects\Methods and objects\bin\Debug\netcoreapp3.1\Methods and objects.runtimeconfig.json
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\Methods and objects\Methods and objects\bin\Debug\netcoreapp3.1\Methods and objects.runtimeconfig.dev.json
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\Methods and objects\Methods and objects\bin\Debug\netcoreapp3.1\Methods and objects.dll
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\Methods and objects\Methods and objects\bin\Debug\netcoreapp3.1\Methods and objects.pdb
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\Methods and objects\Methods and objects\obj\Debug\netcoreapp3.1\Methods and objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\Methods and objects\Methods and objects\obj\Debug\netcoreapp3.1\Methods and objects.AssemblyInfoInputs.cache
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\Methods and objects\Methods and objects\obj\Debug\netcoreapp3.1\Methods and objects.AssemblyInfo.cs
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\Methods and objects\Methods and objects\obj\Debug\netcoreapp3.1\Methods and objects.csproj.CoreCompileInputs.cache
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\Methods and objects\Methods and objects\obj\Debug\netcoreapp3.1\Methods and objects.dll
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\Methods and objects\Methods and objects\obj\Debug\netcoreapp3.1\Methods and objects.pdb
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\Methods and objects\Methods and objects\obj\Debug\netcoreapp3.1\Methods and objects.genruntimeconfig.cache
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\Methods and objects\Methods and objects\obj\Debug\netcoreapp3.1\Methods and objects.csproj.AssemblyReference.cache
