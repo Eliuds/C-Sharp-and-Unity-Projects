@@ -6,10 +6,12 @@ namespace Methods_and_objects
 {
     class Person
     {
-        public List<string> FirstName { get; set; }
-        public List<string> LastName { get; set; }
+        
+        
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
 
-        public void FullName()
+        public void SayName()
         {
             Console.WriteLine(FirstName + " " + LastName);
         }
