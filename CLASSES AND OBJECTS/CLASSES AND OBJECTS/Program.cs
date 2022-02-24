@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CLASSES_AND_OBJECTS;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,29 +11,21 @@ namespace TwentyOne// namespace must be the same between class and this.
     {
         static void Main(string[] args)
         {
-            Deck deck = new Deck();
-            deck.Shuffle(3); // this will shuffle the deck 3 times
-            
-            foreach (Card card in deck.Cards)
-            {
-                Console.WriteLine(card.Face + " of " + card.Suit);
-            }
-            Console.WriteLine(deck.Cards.Count);
-            //deck.Cards = new List<Card>();// this is a long and annoying way to do this, this is where we would use a constructor.
 
 
-
-            //Card cardOne = new Card();
-
-            //cardOne.Face = "Queen";
-            //cardOne.Suit = "Spades";
-
-            //deck.Cards.Add(cardOne);
-
-
-
-            //Console.WriteLine(cardOne.Face + " of " + cardOne.Suit);
+            TwentyOneGame game = new TwentyOneGame();
+            game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
+            game.ListPlayers();
             Console.ReadLine();
+            //Deck deck = new Deck();
+            //deck.Shuffle(3); // this will shuffle the deck 3 times
+            
+            //foreach (Card card in deck.Cards)
+            //{
+            //    Console.WriteLine(card.Face + " of " + card.Suit);
+            //}
+            //Console.WriteLine(deck.Cards.Count);
+            //Console.ReadLine();
         }
 
        
