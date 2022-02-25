@@ -9,15 +9,15 @@ namespace OPERATORS
 
         public int ID { get; set; }
 
-        public static Employee operator ==(Employee employee)
+        public static bool operator ==(Employee emp1, Employee emp2)// When comparing two things to see if its equal bool is used, need the two object that are being compared .
         {
-            return employee;
+            return emp1.ID == emp2.ID;// comparing emp1 and emp2 by ID to see if they are equal.
 
         }
 
-        public static Employee operator !=(Employee employee)
+        public static bool operator !=(Employee emp1, Employee emp2)
         {
-            return employee;
+            return emp1.ID != emp2.ID;// comparing emp1 and emp2 by ID to see if they are not equal.
         }
     }
 }

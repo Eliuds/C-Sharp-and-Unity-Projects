@@ -6,18 +6,20 @@ namespace OPERATORS
     {
        public static void Main(string[] args)
         {
-            Employee employee = new Employee();
+            Employee emp1 = new Employee();//Made the first object and named it emp1 while giving it the ID the value of 1
+            emp1.ID = 1;
 
-            employee.ID = 2;
-            employee == employee;
-            employee != employee;
+            Employee emp2 = new Employee();// Made the 2nd object named it emp2 and gave it the id value 2.
+            emp2.ID = 2;
+            Console.WriteLine("Are the 2 employees the same?");
+            Console.WriteLine(emp1 == emp2);
+            Console.WriteLine("Are the 2 emplyees different?");
+            Console.WriteLine(emp2 != emp1);
 
-            
-            
 
-           
 
-        Console.ReadLine();
+
+            Console.ReadLine();
         }
     }
 }

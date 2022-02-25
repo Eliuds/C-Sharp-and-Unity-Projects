@@ -15,7 +15,7 @@ namespace CLASSES_AND_OBJECTS
         {
             foreach (Player player in Players)
             {
-                Console.WriteLine(player);
+                Console.WriteLine(player.Name);
             }
         }
     }
