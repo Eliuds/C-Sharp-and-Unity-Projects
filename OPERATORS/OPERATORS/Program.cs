@@ -26,9 +26,14 @@ namespace OPERATORS
             Employee<int> employee1 = new Employee<int>();
             employee1.things = new List<int>() { 1, 2, 3 };
 
-            foreach ( things thing in employee.things)
+            foreach (string thing in employee.things)
             {
+                Console.WriteLine(thing);
+            }
 
+            foreach ( int thing in employee1.things)
+            {
+                Console.WriteLine(thing);
             }
 
             Console.ReadLine();
