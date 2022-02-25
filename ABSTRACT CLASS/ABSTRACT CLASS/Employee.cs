@@ -8,12 +8,20 @@ namespace ABSTRACT_CLASS
     {
         public override void SayName()
         {
-            Console.WriteLine(FirstName + " " + LastName);
+            Console.WriteLine(FirstName + " " + LastName + " " + ID);
         }
-        
+
         public void Quit()
         {
             Console.WriteLine("You wanna quit?");
         }
+
+        public int ID { get; set; }
+
+        //public static  Person operator== ()
+        //{
+            
+
+        //}
     }
 }

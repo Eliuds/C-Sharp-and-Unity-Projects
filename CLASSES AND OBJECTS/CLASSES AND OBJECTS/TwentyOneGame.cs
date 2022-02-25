@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CLASSES_AND_OBJECTS
 {
-   public  class TwentyOneGame : Game
+   public  class TwentyOneGame : Game, IWalkAway
     {
         public override void Play()
         {
@@ -14,6 +14,10 @@ namespace CLASSES_AND_OBJECTS
         {
             Console.WriteLine("21 playes:");
             base.ListPlayers();
+        }
+        public void WalkAway(Player player)
+        {
+            throw new NotImplementedException();
         }
     }
 }
