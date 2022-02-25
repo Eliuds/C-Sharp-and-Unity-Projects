@@ -17,13 +17,18 @@ namespace TwentyOne// namespace must be the same between class and this.
             //game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
             //game.ListPlayers();
             //Console.ReadLine();
-            Game game = new TwentyOneGame();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "Anto";
-            game += player;
-            game -= player;
+            //Game game = new TwentyOneGame();//Overloading Operators
+            //game.Players = new List<Player>();
+            //Player player = new Player();
+            //player.Name = "Anto";
+            //game += player;
+            //game -= player;
 
+
+
+
+
+            
             Deck deck = new Deck();
             deck.Shuffle(3); // this will shuffle the deck 3 times
 
