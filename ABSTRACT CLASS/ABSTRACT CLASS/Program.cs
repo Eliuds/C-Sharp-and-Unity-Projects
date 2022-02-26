@@ -14,6 +14,7 @@ namespace ABSTRACT_CLASS
 
 
             Employee employee = new Employee();
+            Person.E
             employee.FirstName = "Sample";
             employee.LastName = "Student";
             employee.SayName();
