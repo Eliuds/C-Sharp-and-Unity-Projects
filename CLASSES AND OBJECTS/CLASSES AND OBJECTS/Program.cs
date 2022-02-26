@@ -28,7 +28,14 @@ namespace TwentyOne// namespace must be the same between class and this.
 
 
 
-            
+            // DaysOfTheWeek day = DaysOfTheWeek.Monday;
+            //ConsoleColor color = ConsoleColor.Green;//make
+
+            //Card card = new Card();
+            //card.Suit = Suit.Clubs;
+            //int underlyingValue = Convert.ToInt32(Suit.Diamonds);//enums have integers as underlying data type
+            //Console.WriteLine(underlyingValue);
+
             Deck deck = new Deck();
             deck.Shuffle(3); // this will shuffle the deck 3 times
 
@@ -39,6 +46,16 @@ namespace TwentyOne// namespace must be the same between class and this.
             Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
         }
+        //public enum DaysOfTheWeek// enums limit the input from the user so you wont get errors
+        //{
+        //    Monday,
+        //    Tuesday,
+        //    Wednsday,
+        //    Thursday,
+        //    Friday,
+        //    Saturday,
+        //    Sunday
+        //}
 
        
 
