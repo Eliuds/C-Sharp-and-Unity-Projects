@@ -23,8 +23,8 @@ namespace PARSING_ENUMS
         
         Console.WriteLine("Please enter the what day of the week it is.");
          string currentday = Console.ReadLine();
-        currentday = { DaysOfTheWeek };
-         }               
+                DaysOfTheWeek day = (DaysOfTheWeek)Enum.Parse(typeof(DaysOfTheWeek), currentday);
+            }               
 
             catch (Exception e)
             {
