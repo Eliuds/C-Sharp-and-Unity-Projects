@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TwentyOne
 {
-   public class Card// must be public in order to be used in another part of the program.
+   public struct Card// must be public in order to be used in another part of the program.
     {
         //public Card()// default value if we dont assign any, called constructor.
         //{
