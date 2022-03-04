@@ -72,12 +72,15 @@ namespace LAMBDA_SUBMISSION
             emp10.ID = 10;
             emp.Add(emp10);
 
+
+            List<employee> Joes = new List<employee>();
+
             foreach (employee Joe in emp)
             {
-                List<employee> Joes = new List<employee>();
-                Joes.Add(emp1);
-                Joes.Add(emp4);
-                Console.WriteLine(Joe);
+                if (emp.FirstName == "Joe")
+                {
+
+                }
             }
 
             
