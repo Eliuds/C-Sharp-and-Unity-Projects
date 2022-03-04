@@ -79,7 +79,7 @@ namespace LAMBDA_SUBMISSION
             {
                 if (emp.FirstName == "Joe")
                 {
-
+                    Joes.Add(emp);
                 }
             }
 
