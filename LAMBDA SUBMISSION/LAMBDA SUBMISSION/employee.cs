@@ -6,13 +6,13 @@ namespace LAMBDA_SUBMISSION
 {
    public class employee
     {
-        public List<string> Emp { get; set; }
+       
 
-        public List<string> FirstName { get; set; }
+        public string FirstName { get; set; }
 
-        public List<string> LastName { get; set; }
+        public string LastName { get; set; }
 
-        public List<int> ID { get; set; }
+        public int ID { get; set; }
 
     }
 }
