@@ -8,7 +8,7 @@ namespace CLASSES_AND_OBJECTS
     {
         public List<Player> Players { get; set; }
         public string Name { get; set; }
-        public string Dealer { get; set; }
+        public Dictionary<Player, int> Bets { get; set;}
 
         public abstract void Play();// all classes inheriting this class must have this method
         public virtual void ListPlayers()//virtual method in abstract class means this method gets inherited but has the ability to over ride it

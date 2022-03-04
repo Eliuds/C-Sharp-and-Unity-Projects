@@ -11,84 +11,28 @@ namespace TwentyOne// namespace must be the same between class and this.
     {
         static void Main(string[] args)
         {
-            //int number = 5;//a struc is a class that is a value type
-            //Card card1 = new Card();
-            //Card card2 = card1;// says whatever value is given to card 2 is gonna be card 1s value as well
-            //card1.Face = Face.eight;
-            //card2.Face = Face.king;// by changing the classes on card to struct now card one and 2 dont interfere they are different cards.
+            Console.WriteLine("Welcome to the grand hoten and casino. Lets start by telling me your name.");
+            string playerName = Console.ReadLine();
+            Console.WriteLine("And how much money did you bring todaY?");
+            int bank = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Hello, {0}. Would you like to join a game of 21 right now?", playerName);
+            string answer = Console.ReadLine().ToLower();
+            if (answer == "yes" || answer == "yeah"|| answer == "y"|| answer == "ya")
+            {
+                Player player = new Player(playerName, bank);
+                Game game = new TwentyOneGame();
+                game += player;
+                player.isActivelyPlaying = true;
+                while (player.isActivelyPlaying && player.Balance > 0)
+                {
+                    game.Play();
+                }
+                game -= player;
+                Console.WriteLine("Thank you for playing!");
+            }
+            Console.WriteLine("Feel free to look around the casino. Bye for now.");
+            Console.Read();
 
-            //Console.WriteLine(card1.Face);
-
-            //TwentyOneGame game = new TwentyOneGame();
-            //game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
-            //game.ListPlayers();
-            //Console.ReadLine();
-            //Game game = new TwentyOneGame();//Overloading Operators
-            //game.Players = new List<Player>();
-            //Player player = new Player();
-            //player.Name = "Anto";
-            //game += player;
-            //game -= player;
-
-
-
-
-
-            // DaysOfTheWeek day = DaysOfTheWeek.Monday;
-            //ConsoleColor color = ConsoleColor.Green;//make
-
-            //Card card = new Card();
-            //card.Suit = Suit.Clubs;
-            //int underlyingValue = Convert.ToInt32(Suit.Diamonds);//enums have integers as underlying data type
-            //Console.WriteLine(underlyingValue);
-
-           // Deck deck = new Deck();
-
-            // int count = deck.Cards.Count(x => x.Face == Face.ace);
-
-
-            // List<Card> newList = deck.Cards.Where(x => x.Face == Face.king).ToList();
-
-            //List<int> numberList = new List<int>() { 1, 2, 3, 535, 342, 23 };
-
-            //int sum = numberList.Where(x => x > 20).Sum();
-
-            //Console.WriteLine(sum);
-            //foreach (Card card in newList)
-            //{
-            //    Console.WriteLine(card.Face);
-            //}
-           
-
-            //deck.Shuffle(3); // this will shuffle the deck 3 times
-
-            //foreach (Card card in deck.Cards)
-            //{
-            //    Console.WriteLine(card.Face + " of " + card.Suit);
-            //}
-            //Console.WriteLine(deck.Cards.Count);
-            //Console.ReadLine();
         }
-        //public enum DaysOfTheWeek// enums limit the input from the user so you wont get errors
-        //{
-        //    Monday,
-        //    Tuesday,
-        //    Wednsday,
-        //    Thursday,
-        //    Friday,
-        //    Saturday,
-        //    Sunday
-        //}
-
-
-
-        //public static Deck Shuffle(Deck deck, int times)
-        //{
-        //    for (int i = 0; i < times; i ++)
-        //    {
-        //        deck = Shuffle(deck);
-        //    }
-        //    return deck;
-        //}
     }
 }
