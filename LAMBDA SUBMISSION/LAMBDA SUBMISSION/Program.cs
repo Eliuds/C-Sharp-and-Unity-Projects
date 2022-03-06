@@ -73,16 +73,19 @@ namespace LAMBDA_SUBMISSION
             emp.Add(emp10);
 
 
-            List<employee> Joes = new List<employee>();
+            List<employee> Joes = .FirstName.Where(x => x.FirstName == FirstName.Joe).ToList();
 
-            foreach (employee Joe in emp)
-            {
-                if (emp.FirstName == "Joe")
-                {
-                    Joes.Add(emp);
-                }
-            }
+            
 
+            //foreach (employee Joe in emp)
+            //{
+            //    if (Joe.FirstName == "Joe")
+            //    {
+            //        Joes.Add(Joe);
+            //    }
+            //}
+
+            //Console.WriteLine(Joes);
             
 
 
