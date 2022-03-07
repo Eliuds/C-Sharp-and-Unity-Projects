@@ -73,7 +73,7 @@ namespace LAMBDA_SUBMISSION
             emp.Add(emp10);
 
 
-            List<employee> Joes = .FirstName.Where(x => x.FirstName == FirstName.Joe).ToList();
+            List<employee> Joes = emp.Where(x => x.FirstName == "Joe").ToList();
 
             
 
