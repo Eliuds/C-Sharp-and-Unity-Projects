@@ -13,6 +13,11 @@ namespace TwentyOne
         //}
         public Suit Suit { get; set; }
         public Face Face { get; set; }
+
+        public override string ToString()// im not too sure what this does i know its overiding something thats it
+        {
+            return string.Format("{0} of {1}", Face, Suit);
+        }
     }
     public enum Suit// in enum the content is given an order kind of like indexes starting at 0, but we can assign any value we want to it.
     {
