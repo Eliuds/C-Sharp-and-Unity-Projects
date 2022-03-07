@@ -1,5 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
 
 namespace LAMBDA_SUBMISSION
 {
@@ -74,6 +78,10 @@ namespace LAMBDA_SUBMISSION
 
 
             List<employee> Joes = emp.Where(x => x.FirstName == "Joe").ToList();
+            Console.WriteLine(Joes);
+
+            List<employee> ID5 = emp.Where(x => x.ID > 5).ToList();
+            Console.WriteLine(ID5);
 
             
 
