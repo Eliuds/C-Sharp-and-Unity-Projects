@@ -78,12 +78,12 @@ namespace LAMBDA_SUBMISSION
 
 
             List<employee> Joes = emp.Where(x => x.FirstName == "Joe").ToList();
-            Console.WriteLine(Joes);
+            foreach (employee x in Joes) { Console.Write(x.FirstName); }
 
             List<employee> ID5 = emp.Where(x => x.ID > 5).ToList();
-            Console.WriteLine(ID5);
+            foreach (employee x in ID5) { Console.Write(x.ID); }
 
-            
+
 
             //foreach (employee Joe in emp)
             //{
@@ -94,7 +94,7 @@ namespace LAMBDA_SUBMISSION
             //}
 
             //Console.WriteLine(Joes);
-            
+
 
 
 
