@@ -12,8 +12,13 @@ namespace TwentyOne// namespace must be the same between class and this.
     {
         static void Main(string[] args)
         {
-            string text = "Here is some text.";//Made some text
-            File.WriteAllText(@"C:\Users\13218\log.txt", text);//Moving some text to this location
+            //DateTime yearOfBirth = new DateTime(1995, 5, 23, 8, 32, 45);
+            //DateTime yearOfGraduation = new DateTime(2013, 6, 1, 16, 34, 22);
+
+            //TimeSpan ageAtGraduation = yearOfGraduation - yearOfBirth;
+            
+            //string text = "Here is some text.";//Made some text
+            //File.WriteAllText(@"C:\Users\13218\log.txt", text);//Moving some text to this location
 
             Console.WriteLine("Welcome to the grand hoten and casino. Lets start by telling me your name.");
             string playerName = Console.ReadLine();

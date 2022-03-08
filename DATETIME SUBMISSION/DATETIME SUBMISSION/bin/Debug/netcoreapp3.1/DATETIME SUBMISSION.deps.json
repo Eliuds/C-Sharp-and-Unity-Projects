@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DATETIME SUBMISSION/1.0.0": {
+        "runtime": {
+          "DATETIME SUBMISSION.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DATETIME SUBMISSION/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

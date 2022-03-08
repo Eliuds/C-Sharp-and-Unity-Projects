@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using TwentyOne;
+using System.IO;
 
 namespace CLASSES_AND_OBJECTS
 {
@@ -16,8 +17,14 @@ namespace CLASSES_AND_OBJECTS
         public void Deal(List<Card> Hand)
         {
             Hand.Add(Deck.Cards.First());
-            Console.WriteLine(Deck.Cards.First().ToString() + "\n");
-            Deck.Cards.RemoveAt(0);
+            string card = string.Format(Deck.Cards.First().ToString() + "\n");
+            Console.WriteLine(card);
+            using (StreamWriter file = new StreamWriter(@"C:\Users\13218\log.txt", true))
+            {
+                file.WriteLine(card);
+                file.WriteLine(DateTime.Now);
+            }
+                Deck.Cards.RemoveAt(0);
         }
     }
 }
