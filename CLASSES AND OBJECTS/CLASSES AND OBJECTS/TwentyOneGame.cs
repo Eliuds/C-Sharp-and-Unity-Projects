@@ -33,10 +33,10 @@ namespace CLASSES_AND_OBJECTS
                 }
                 Bets[player] = bet;
             }
-            for (int i = 0; 1 < 2; i++)
+            for (int i = 0; i < 2; i++)
             {
                 Console.WriteLine("Dealing...");
-                foreach(Player player in Players)
+                foreach (Player player in Players)
                 {
                     Console.Write("{0}: ", player.Name);
                     Dealer.Deal(player.Hand);
@@ -57,15 +57,17 @@ namespace CLASSES_AND_OBJECTS
                 if (i == 1)
                 {
                     bool blackJack = TwentyOneRules.CheckForBlackJack(Dealer.Hand);//Checking the dealers hand with the function
-                    if(blackJack)// if dealer has black jack
+                    if (blackJack)// if dealer has black jack
                     {
                         Console.WriteLine("Dealer has BlackJack!! Everyone loses! ");
                         foreach (KeyValuePair<Player, int> entry in Bets)
                         {
                             Dealer.Balance += entry.Value; // Dealer gets all the money i think
                         }
+                        return;
                     }
                 }
+            }
                  foreach (Player player in Players)
                 {
                     while (!player.Stay)
@@ -82,7 +84,7 @@ namespace CLASSES_AND_OBJECTS
                             player.Stay = true;// if they stay it stops here
                             break;
                         }
-                        else if( answer == "Hit")
+                        else if( answer == "hit")
                         {
                             Dealer.Deal(player.Hand);
                         }
@@ -96,10 +98,12 @@ namespace CLASSES_AND_OBJECTS
                             if (answer == "yes" || answer == "yeah")//asking if they want to continue playing
                             {
                                 player.isActivelyPlaying = true;
+                                return;
                             }
                             else
                             {
                                 player.isActivelyPlaying = false;
+                                return;
                             }
                         }
                     }
@@ -161,7 +165,7 @@ namespace CLASSES_AND_OBJECTS
                     }
                 }
              
-            }
+             
             
         }
         public override void ListPlayers()

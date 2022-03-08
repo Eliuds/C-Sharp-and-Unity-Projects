@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace TwentyOne// namespace must be the same between class and this.
 {
@@ -11,6 +12,9 @@ namespace TwentyOne// namespace must be the same between class and this.
     {
         static void Main(string[] args)
         {
+            string text = "Here is some text.";//Made some text
+            File.WriteAllText(@"C:\Users\13218\log.txt", text);//Moving some text to this location
+
             Console.WriteLine("Welcome to the grand hoten and casino. Lets start by telling me your name.");
             string playerName = Console.ReadLine();
             Console.WriteLine("And how much money did you bring todaY?");
